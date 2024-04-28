@@ -28,6 +28,7 @@ body {
 	/* Neutral */
 	--error: #f74646;
 	background: var(--bg);
+	transition: all ease 300ms;
 }
 
 body.dark-theme {
